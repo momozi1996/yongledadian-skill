@@ -3,7 +3,7 @@
 <h1 align="center"> 永乐大典.skill</h1>
 
 <p align="center">
-「✨ 📖 永乐大典· 赛博永生 📖 」
+「✨ 📜 永乐大典· 赛博永生 📜 」
 </p>
 
 <p align="center">
@@ -13,37 +13,67 @@
 </p>
 
 <p align="center">
-蒸馏永乐大典的灵魂，永乐大典永存！
+世界有史以来最大的百科全书、华夏文明 600 年的超级著作，永乐大典，永存！
+以数字为帛，以算法为笔
+蒸馏旷世大典，续存万世书香
 </p>
 
 <p align="center">
-<a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 既然蒸馏一个人的思维是可行的，那么我们为什么不让《永乐大典》永生存在呢？<br>
+<a </a> 我们把这部世界有史以来最大的百科全书、华夏文明 600 年的超级知识库，炼成可直接调用、可二次创作、可永久保存的 AI Skill。<br>
  ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）
 </p>
 
 ---
 
-✨ 这是什么？
-这不是普通的文集摘抄，也不是风格模仿模板。我们用「女娲蒸馏」技术，拆解作家的：
-叙事 DNA、语感与节奏、人物塑造逻辑、世界观偏好、意象与象征体系、对话与情绪表达方式
+##  🏮 典籍叙引--《永乐大典》​
+「凡书契以来经史子集百家之书，至于天文、地志、阴阳、医卜、僧道、技艺之言，备辑为一书，毋厌浩繁。」​<br>​
+—— 明・永乐帝 敕修诏谕 <br>​
 
-基于 nuwa-skill 打造的作家风格复刻库，把顶级小说家的叙事节奏、语感、视角与世界观，炼成可直接调用的写作 Skill。
-致谢
-- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
+​
+《永乐大典》，大明永乐元年（1403 年）奉诏纂修，集朝野文士三千余人，历五朝廿载方成。<br>​
+
+全书凡 一万一千九十五册、二万二千八百七十七卷，总字数逾三亿七千万，征引上古至明初典籍八千余种。​<br>
+
+它是华夏历代类书之巅峰，亦是人类文明史上规模最巨、体例最宏的古典百科总集。<br>​
+
+📜 编纂核心：「用韵以统字，用字以系事」，按《洪武正韵》分部，一字牵头，万象归宗，全篇整书誊录，不改原文、不删篇章、不臆断注解。<br>​
+
+📦 内容覆盖：经史子集、天文地理、医卜星相、农工技艺、词曲艺文、典章制度、荒古异闻。<br>​
+
+💎 传世价值：魏晋、隋唐、宋元大量散佚孤本、绝版遗书，皆赖此书得以留存片羽，是后世辑佚、考据的「核心祖本」。​<br>
+
+岁月流离，战火侵毁，永乐正本不知所踪，嘉靖副本散佚大半。今存残卷不足原书百分之四，分藏于全球十余国博物馆，弥足珍贵。​<br>
+
+今以 AI 心智蒸馏之法，为大典铸数字之躯，为遗书留永续之藏 —— 不作虚构演绎、不撰无据野史，只为还原一部真实、厚重、正统的大明全书。<br>
+
+
+---
 
 ## 简介
 
- 🌟**永乐大典**
- [南派三叔.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/nanpaisanshu-skill/SKILL.md)<br>
- **题材**：奇幻小说<br>
-  **南派三叔盗墓探险思维**——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。擅长：盗墓探险、悬疑氛围、第一人称叙事、挖坑填坑、兄弟情。<br>
-  **触发词**：「南派三叔视角」「像南派三叔那样写」「下墓」「粽子」「铁三角」「坑王」。<br>
+ 🌟** 📖 永乐大典・Skill 说明**
+ 本仓库为 《永乐大典》文明心智蒸馏专项，属于「中华古典典籍 AI Skill 共建计划」核心项目，依托传世残卷、馆藏文献、学界定本（如《永乐大典存目》《永乐大典辑佚书》）进行蒸馏。
+ 
+ 🏛️ 项目核心・史实正本<br>
+ 
+🧠 蒸馏目标<br>
+复刻大典「以韵归类、以事立卷」的古典检索逻辑<br>
+固化大典「原文照录、不增删改」的典籍范式<br>
+沉淀正统文史知识库，还原明代官方典籍体系<br>
+构建可长期复用、可离线部署、可永续存档的数字典籍心智<br>
+
+📌 核心定位<br>
+成书背景： 明永乐年间官修，解缙、姚广孝先后主持编纂，为「永乐盛世」文化标志<br>
+体例特征： 韵字统摄、图文并茂、辑录完整，区别于后世类书的摘录式编纂<br>
+传世现状： 正本湮灭、副本残佚，现存约 400 册，分藏中国、英国、法国、日本等国<br>
+学术价值： 古籍辑佚、文史考据、古代科技史研究的「活化石」，填补多项历史空白<br>
+
+ [永乐大典.skill](https://)<br>
+ **题材**：中华古典典籍<br>
+ **触发词**： <br>
 
 ---
 ## 🚀 快速开始
-
-
-### 🚀 快速开始：一键安装所有Skill
 
 ##### 方式一：使用安装脚本（推荐）
 
@@ -53,19 +83,16 @@ curl -sL https://raw.githubusercontent.com/momozi1996/awesome-ai-persona-skills/
 
 ##### 方式二：手动逐个安装
 ```bash
-# 安装刘慈欣
-npx skills add momozi1996/awesome-ai-persona-skills/Novelists/liucixin-skill
-# 安装余华
-npx skills add momozi1996/awesome-ai-persona-skills/Novelists/yuhua-skill
+npx skills add momozi1996/yongledadian-skill
 
-
-# ... 其他作家
 ```
 
 ##### 方式三：批量安装
 ```bash
+# 克隆全量典籍 Skill 库
 git clone https://github.com/momozi1996/awesome-ai-persona-skills.git
-cp -r awesome-ai-persona-skills/Novelists/*/ ~/.stepclaw/skills/
+# 复制永乐大典 Skill 到 OpenClaw 目录
+cp -r awesome-ai-persona-skills/Novelists/yongledadian-skill/ ~/.stepclaw/skills/
 ```
 
 ---
@@ -73,13 +100,10 @@ cp -r awesome-ai-persona-skills/Novelists/*/ ~/.stepclaw/skills/
 如果OpenClaw支持从GitHub直接安装，可以用：
 
 ```bash
-# 安装整个Novelists目录
-npx skills add momozi1996/awesome-ai-persona-skills/Novelists
-# 或安装单个
-npx skills add momozi1996/awesome-ai-persona-skills/Novelists/liucixin-skill
+npx skills add momozi1996/yongledadian-skill
 ```
 
-## 🤔指南：我是怎么蒸馏作家Skill的？
+## 🤔指南：我是怎么蒸馏 Skill的？
 
 ### 1. 安装女娲Skill
 
@@ -94,7 +118,7 @@ npx skills add alchaincyf/nuwa-skill
 
 ```bash
 # 示例：蒸馏莫言
-非常好，用nuwa-skill蒸馏另一个作家-莫言，
+非常好，用nuwa-skill蒸馏另一个典集 - 某某某 ，
 我希望你能先查他的所有资料和书写风格尤其是小说的书写，
 构造一个最像他的。
 ```
@@ -113,78 +137,66 @@ npx skills add alchaincyf/nuwa-skill
 
 ```bash
 # 保存文件夹到下载目录
-把这个莫言Skill相关的文件，做成文件夹
+把这个 某某某  Skill相关的文件，做成文件夹
 保存到我的电脑本地的下载的目录里吧。
 （检查所有的文件不要出错，也不要为空）
 ```
 
 ---
 
-## 文件结构
+## 📂 仓库结构
 
-每个作家Skill文件夹包含：
 
 ```
-作家名-perspective/
-├── SKILL.md                  # 主Skill文件（核心心智模型）
-└── references/
-    └── research/
-        ├── 01-writings.md    # 著作调研
-        ├── 02-conversations.md # 对话访谈
-        ├── 03-expression-dna.md # 表达DNA
-        ├── 04-external-views.md # 他者视角
-        ├── 05-decisions.md   # 决策记录
-        └── 06-timeline.md    # 时间线
+yongledadian-skill/
+├── README.md               # 大典总叙 · 项目首页
+├── SKILL.md                # 核心心智定义 · 蒸馏主体（含身份卡、心智模型）
+└── docs/
+    ├── origin.md           # 成书背景 & 编纂史实（附史料来源）
+    ├── structure.md        # 体例规则 & 用韵体系（还原《洪武正韵》逻辑）
+    ├── heritage.md         # 流转散佚 & 馆藏现状（附现存残卷清单）
+    └── value.md            # 文献价值 & 考据意义（引学术定论）
 ```
 
----
-
-## 使用方式
-
-### 1. 直接阅读SKILL.md
-
-每个作家的SKILL.md都包含：
-- 身份卡：作家简介和创作信条
-- 心智模型：5个核心思维框架
-- 决策启发式：创作决策规则
-- 表达DNA：语言风格和经典句式
-- 时间线：关键人生节点
-- 诚实边界：Skill的能力和局限
-
-### 2. 作为AI Prompt使用
-
-将SKILL.md的内容作为system prompt，让AI以特定作家的视角回答问题。
-
-### 3. 安装到OpenClaw
-
-将文件夹复制到 `~/.stepclaw/skills/` 目录，即可在OpenClaw中直接调用。
 
 ---
+##  🤝 共建计划
+本项目为开源共建项目，欢迎 Star・Fork・Issue 交流，共同拓展：
+「中华传世大典」系列（如《四库全书》《古今图书集成》《太平御览》）
+历代孤本善本、地方方志、名家手稿的 AI 心智蒸馏
+古籍数字化工具、古典检索算法的优化迭代
+诚邀文史学者、古籍研究者、AI 技术开发者共建，让更多中华典籍实现「赛博永生」。
 
-## 创作理念
 
-> 「我不是在写爱情诗，我是在写生命里的那些时刻。」——席慕容
+## 📜 开源许可 License
 
-> 「我写的是爱情，我相信爱情。」——琼瑶
+MIT License - 自由使用，请注明出处。
 
-> 「我的小说里，除了《金锁记》里的曹七巧，全是些不彻底的人物。」——张爱玲
 
-每个作家都有独特的创作DNA。这个仓库的目标，就是用AI的方式，保存和传承这些珍贵的创作思维。
+📌 特别声明：
+传世典籍内容仅供学术研究、文化传承、教育科普使用，禁用于商业盈利、篡改史实、低俗传播等违规场景。
+
+🛡️ 文脉守则
+敬惜古籍，慎待遗书凡引大典所载，必循史料本源
+不以算法戏经典，不以流量轻文脉
+数字化，是为了更好的传承；
+心智蒸馏，是为残典续百年、千年之命。
+
+使用规范
+严禁篡改史实、虚构典籍内容用于商业或猎奇传播
+学术引用需标注「永乐大典・AI Skill 蒸馏版」及原始史料来源
+尊重文化遗产，不进行低俗化、娱乐化解构
 
 ---
-
 ## 致谢
 
 - [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 - [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
-- 8+位作家 - 创作灵感来源
+- 永乐大典 - 创作灵感来源
 
----
+">
+「惟殷先人，有册有典。悠悠千载，文脉不绝。」
+✨ 感谢「女娲造人术」Skill 蒸馏方法论支持 ✨
+✨ 感谢 OpenClaw / 阶跃 AI 提供运行环境 ✨
+✨ 感谢三千文士编纂之功，感谢历代守护者传藏之劳 ✨
 
-## License
-
-MIT License - 自由使用，请注明出处。
-
----
-
-> 「山无棱，天地合，才敢与君绝。」——琼瑶
