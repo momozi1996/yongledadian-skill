@@ -121,46 +121,6 @@ cp -r yongledadian-skill/ ~/.stepclaw/skills/
 ```bash
 npx skills add momozi1996/yongledadian-skill
 ```
-
-## 🤔指南：我是怎么蒸馏 Skill的？
-
-### 1. 安装女娲Skill
-
-```bash
-npx skills add alchaincyf/nuwa-skill
-```
-
-致谢
-- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
-
-### 2. 利用女娲Skill蒸馏人物
-
-```bash
-# 示例：蒸馏莫言
-非常好，用nuwa-skill蒸馏另一个典集 - 某某某 ，
-我希望你能先查他的所有资料和书写风格尤其是小说的书写，
-构造一个最像他的。
-```
-
-### 3. 等待OpenClaw完成任务 (本人使用：阶跃 AI・StepClaw)
-
-系统会自动启动6个并行Agent进行多维度调研：
-- 1. 著作与创作理念
-- 2. 长对话与访谈
-- 3. 表达DNA与风格
-- 4. 他者及评论界视角与批评
-- 5. 创作决策与转折点
-- 6. 人生时间线
-
-### 4. 保存到本地
-
-```bash
-# 保存文件夹到下载目录
-把这个 某某某  Skill相关的文件，做成文件夹
-保存到我的电脑本地的下载的目录里吧。
-（检查所有的文件不要出错，也不要为空）
-```
-
 ---
 
 ## 📂 仓库结构
@@ -168,7 +128,7 @@ npx skills add alchaincyf/nuwa-skill
 
 ```
 yongledadian-skill/
-├── SKILL.md                    # 主文件（6,110字节）
+├── SKILL.md                    # 主文件（13,668字节）
 └── references/
     └── research/
         ├── 01-writings.md      # 编纂理念与系统性思考
