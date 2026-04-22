@@ -443,5 +443,4 @@ license: MIT
 ---
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
 > 主题：《永乐大典》编纂思维框架
