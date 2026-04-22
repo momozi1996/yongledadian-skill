@@ -100,22 +100,21 @@
 
 
 ---
-## 🚀 快速开始
+## 🚀 一键安装，快速开始
 
 
-##### 方式一：手动逐个安装
+##### 方式一：直接克隆（现在可用）
 ```bash
-# 复制永乐大典 Skill 
-npx skills add momozi1996/yongledadian-skill
+git clone https://github.com/momozi1996/yongledadian-skill.git
+cp -r yongledadian-skill/yongledadian-skill ~/.stepclaw/skills/yongledadian
 
 ```
 
-##### 方式二：批量安装
+##### 方式二：手动下载
 ```bash
-# 克隆全量典籍 Skill 库
-git clone https://github.com/momozi1996/yongledadian-skill.git
-# 复制永乐大典 Skill 到 OpenClaw 目录
-cp -r yongledadian-skill/ ~/.stepclaw/skills/
+mkdir -p ~/.stepclaw/skills/yongledadian
+curl -o ~/.stepclaw/skills/yongledadian/SKILL.md \
+  https://raw.githubusercontent.com/momozi1996/yongledadian-skill/main/yongledadian-skill/SKILL.md
 ```
 
 ---
